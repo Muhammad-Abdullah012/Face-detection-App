@@ -1,6 +1,6 @@
 {
-  "name": "facedetection",
-  "homepage": "https://Muhammad-Abdullah012.github.io/facedetection",
+  "name": "Face-detection-App",
+  "homepage": "https://Muhammad-Abdullah012.github.io/Face-detection-App",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
